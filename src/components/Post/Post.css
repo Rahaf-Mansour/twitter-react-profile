@@ -1,0 +1,42 @@
+.post {
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border-top: 1px solid #3a3a3a;
+}
+
+.post p,
+.post h4 {
+  margin: 0;
+}
+
+.post h4 {
+  display: inline-block;
+}
+
+.post .post-mini-detail {
+  margin-left: 30px;
+  margin-bottom: 7px;
+}
+
+.post .post-flexbox {
+  display: flex;
+}
+
+.post .post-flexbox .profile-pic-div {
+  max-width: fit-content;
+  margin-left: 10px
+}
+
+.post .post-flexbox .post-content {
+  padding-right: 20px
+}
+
+.post .profile-pic {
+  width: 40px;
+  border-radius: 50%;
+  margin-right: 12px
+}
+
+.post-content p.grey {
+  margin-bottom: 8px;
+}
