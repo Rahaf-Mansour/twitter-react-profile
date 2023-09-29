@@ -1,0 +1,22 @@
+.row-item {
+  border-radius: 30px;
+  padding: 12px 20px;
+  width: fit-content;
+  cursor: pointer;
+  list-style-type: none;
+  margin-bottom: 4px;
+}
+
+.row-item:hover {
+  background-color: rgb(54, 54, 54);
+  transition: all 0.3s linear;
+}
+
+.row-item-label-style {
+  text-decoration: none;
+  color: white;
+}
+
+.row-item-label-style .font-icon {
+  padding-right: 15px;
+}
