@@ -1,0 +1,22 @@
+.trend {
+    margin-bottom: 20px;
+}
+
+.board h3 {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.trend div p, .trend p+p {
+    color: #71767b;
+    font-size: 13px;
+}
+
+.trend .icon {
+    color: #71767b;
+}
+
+.trend .name {
+    font-weight: bold;
+    margin: 2px 0;
+}
