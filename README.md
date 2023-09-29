@@ -1,3 +1,7 @@
+# Take A Look:
+![image](https://github.com/Rahaf-Mansour/twitter-react-profile/assets/109438456/ca7b24e3-8a5b-42e0-b81b-ad0c3fd946ef)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
