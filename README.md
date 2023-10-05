@@ -1,5 +1,5 @@
 # Take A Look:
-![image](https://github.com/Rahaf-Mansour/twitter-react-profile/assets/109438456/ca7b24e3-8a5b-42e0-b81b-ad0c3fd946ef)
+![image](https://github.com/Rahaf-Mansour/twitter-react-profile/assets/109438456/9254701b-ab41-4868-badd-b0f1d0b399b3)
 
 
 # Getting Started with Create React App
