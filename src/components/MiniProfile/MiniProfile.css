@@ -1,0 +1,31 @@
+.mini-profile {
+  margin: 10px 0px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+
+.mini-profile img {
+  border-radius: 50%;
+}
+
+.mini-profile .title-and-handel p {
+  margin: 0 10px;
+}
+
+.mini-profile:hover {
+  background-color: #2f3135;
+}
+
+.mini-profile .mini-profile-flex {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.verified {
+  color: #1d9cf2;
+  margin-left: 5px;
+}

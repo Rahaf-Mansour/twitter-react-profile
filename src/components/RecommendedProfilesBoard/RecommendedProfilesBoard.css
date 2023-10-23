@@ -1,0 +1,8 @@
+.board {
+  background-color: #17181c;
+  border-radius: 20px;
+  width: 350px;
+  margin: 15px auto;
+  padding: 10px 15px 20px;
+  box-sizing: border-box;
+}

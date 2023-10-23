@@ -1,0 +1,55 @@
+.profile-details {
+  margin: 30px 16px 0;
+}
+
+.profile-details p {
+  margin: 7px 0;
+}
+
+.profile-details .handle,
+.profile-details h3 {
+  margin: 0;
+}
+
+.profile-details .handle {
+  font-size: 14px;
+  color: #71767b;
+}
+
+.profile-details .links a {
+  margin-left: 5px;
+  margin-right: 25px;
+}
+
+.profile-details .links a:visited {
+  color: #1d9bf0;
+}
+
+.profile-details .joining-date-p {
+  margin-left: 8px;
+  font-size: 15px;
+  display: inline-block;
+}
+
+.profile-details a.follows-details {
+  font-size: 15px;
+  display: inline-block;
+  margin-right: 10px;
+  color: white !important;
+}
+
+.profile-details a {
+  text-decoration: none;
+}
+
+.profile-details a:hover {
+  text-decoration: underline;
+}
+
+.follows-people {
+  font-size: 15px;
+}
+
+.grey {
+  color: #71767b;
+}

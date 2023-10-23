@@ -1,0 +1,9 @@
+.follow-btn button {
+  background-color: white;
+  color: black;
+  font-size: 15px;
+  padding: 10px 16px;
+  border-radius: 30px;
+  font-weight: bold;
+  cursor: pointer;
+}

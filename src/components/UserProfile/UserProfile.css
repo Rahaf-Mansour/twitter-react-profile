@@ -1,0 +1,33 @@
+.user {
+    margin-top: 32px;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    bottom: 10px;
+}
+
+.user img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.user-info {
+    padding-left: 10px;
+}
+
+.user .user-info .user-name {
+    color: white;
+}
+
+.user .user-info .user-email {
+    color: var(--secondaryColor);
+    width: 150px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.user .ellipsis {
+    color: white;
+    align-self: center;
+}

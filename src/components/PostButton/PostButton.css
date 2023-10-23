@@ -1,0 +1,16 @@
+.post-button {
+    margin-top: 15px;
+    background-color: #1e93e1;
+    color: white;
+    font-size: 17px;
+    border: none;
+    padding: 15px 25px;
+    width: 220px;
+    border-radius: 30px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.post-button:hover {
+    background-color: #1972ad;
+}
